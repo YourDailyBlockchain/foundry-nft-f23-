@@ -1,0 +1,1 @@
+{"abi":[],"bytecode":{"object":"0x","linkReferences":{}},"deployedBytecode":{"object":"0x","linkReferences":{}},"ast":{"absolutePath":"test/BasicNftTest.t.sol","id":43455,"exportedSymbols":{},"nodeType":"SourceUnit","src":"32:25:29","nodes":[{"id":43454,"nodeType":"PragmaDirective","src":"32:23:29","nodes":[],"literals":["solidity","0.8",".20"]}],"license":"MIT"},"id":29}
